@@ -12,7 +12,7 @@ app.use(express.json());
 
 // Star Wars Characters (DATA)
 // =============================================================
-var reservedTables1 = [
+var reservedTables = [
   {
     routeName: "yoda",
     name: "Yoda",
