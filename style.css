@@ -1,0 +1,12 @@
+.jumbtron {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fadmin.worldation.com%2Fstories%2Fhilarious-cast-dodgeball-today%2F&psig=AOvVaw3rs-8y7EbctNwk3mXqhfvn&ust=1597934923806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCIxM_Bp-sCFQAAAAAdAAAAABA-) no-repeat center center;
+ /* old patchy image address (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sportbible.com%2Fentertainment%2Fcelebrity-award-winning-actor-rip-torn-has-died-age-88-20190710&psig=AOvVaw3phE7Szrnr6AeFVQ49QSSW&ust=1597934323039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiS37e_p-sCFQAAAAAdAAAAABA_) */
+background-size: auto;
+background-repeat: auto;
+height: auto;
+}
+
+.body {
+background-image: url(https://www.buzztime.com/business/wp-content/uploads/2018/09/shutterstock_1102776053.jpg);
+background-size: auto; 
+}
